@@ -1,0 +1,7 @@
+vendor
+logs
+*.pyc
+*.txt
+*.log
+.DS_*
+.idea
